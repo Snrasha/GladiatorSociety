@@ -2,7 +2,7 @@
   "faction":"derelict",
   "randomFleet":true,
   "dsrandom":1,
-  "reward":3000000,
+  "reward":225000,
   "needBounty":"Minimum",
   "combatPoints":200,
   "description":"Society offers you these training missions in order to please the public (and kill you)",

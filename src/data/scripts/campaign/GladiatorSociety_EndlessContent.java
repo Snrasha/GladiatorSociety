@@ -74,7 +74,7 @@ public class GladiatorSociety_EndlessContent {
     }
 
     public int getEndlessReward() {
-        return (int) (5 * Math.pow(endlessPower, 2)) + endlessPower * 1000;
+        return (int) (4.5 * Math.pow(endlessPower, 2)) + endlessPower * 1000;
     }
 
     public boolean canHaveReward() {

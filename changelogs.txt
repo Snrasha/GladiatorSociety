@@ -1,5 +1,7 @@
-Version 1.3:
+Version 1.3(beta):
 -Update for latest Starsector
+-Rebalance reward/power of each base bounty for be more balance.
+-The amount of credits reward on endless has be reduced.
 
 
 Version 1.2b:

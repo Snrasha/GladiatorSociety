@@ -87,9 +87,7 @@ For a ladder of values(Independent faction): (The max value on Vanilla bounty ar
 * 10 Points: 1 cruiser + 7 frigates
 * 5 Points: 1 destroyer + 4 frigates
 
-
-
--reward: The reward for defeating the fleet.
+-reward: The reward for defeating the fleet. (See for 1125 credits per combat point)
 
 -needBounty: For chain instances. If true, earlier bounties will need to be done before you are able to fight the bounty.
 

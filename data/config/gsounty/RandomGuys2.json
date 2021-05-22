@@ -10,7 +10,7 @@
 
     "randomFleet":true, # If random fleet(from the faction) will be added.
     "dsrandom":2,
-    "reward":300000, # Bounty reward.
+    "reward":140000, # Bounty reward.
     "combatPoints":60,
     "needBounty":"RandomGuys",
     "description":"The Gladiators in this match are so annoying that your opponent doesn't have a name",

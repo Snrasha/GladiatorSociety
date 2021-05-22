@@ -3,7 +3,7 @@
   "faction":"derelict",
   "randomFleet":true,
   "dsrandom":1,
-  "reward":3000000,
+  "reward":1000000,
   "mainShipCustom":["GladiatorSociety_spore","swp_boss_sporeship"],
   "needBounty":"Derelict",
   "combatPoints":80,
